@@ -2,9 +2,7 @@
   <br>
   <br>
   <br>
-	<img width="500" src="https://cdn.rawgit.com/gurre/crypto-exchanges/master/media/logo.svg" alt="Buy or Sell crypto currencies">
-	<br>
-  <br>
+	<img width="700" src="https://cdn.rawgit.com/gurre/crypto-exchanges/master/media/logo.svg" alt="Buy or Sell crypto currencies">
 	<br>
 </h1>
 <br>
