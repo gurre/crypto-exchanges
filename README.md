@@ -4,7 +4,7 @@
 	<br>
 </h1>
 <br>
-A curated list of services offering buying or selling of crypto world wide grouped by their regulating country.
+A curated list of services offering buying or selling of crypto grouped by their regulating country.
 <br>
 
 ## USA
